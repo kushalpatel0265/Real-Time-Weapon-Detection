@@ -112,6 +112,6 @@ Distributed under the MIT License. See the `LICENSE` file for full details.
 
 ### Contact
 
-For questions or business inquiries, please email **\kushalpatel0265@gmail.com** or open an issue on GitHub.
+For questions or business inquiries, please email **kushalpatel0265@gmail.com** or open an issue on GitHub.
 
 ---
